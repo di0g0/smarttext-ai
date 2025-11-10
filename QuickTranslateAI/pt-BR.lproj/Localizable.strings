@@ -1,0 +1,188 @@
+/* Menu Bar */
+"menu.open" = "Abrir SmartText AI";
+"menu.preferences" = "Preferências...";
+"menu.history" = "Histórico";
+"menu.upgrade" = "⭐ Upgrade para Premium";
+"menu.show_tutorial" = "Ver Tutorial de Novo";
+"menu.about" = "Sobre";
+"menu.quit" = "Sair";
+
+/* AI Actions */
+"action.translate" = "Traduzir";
+"action.improve" = "Melhorar Texto";
+"action.formal" = "Tornar Formal";
+"action.casual" = "Tornar Casual";
+"action.fix" = "Corrigir Gramática";
+"action.simplify" = "Simplificar";
+"action.expand" = "Expandir";
+
+/* Window Titles */
+"window.history.title" = "Histórico de Traduções";
+
+/* Buttons */
+"button.back" = "Voltar";
+"button.continue" = "Continuar";
+"button.already_configured" = "Já Configurei";
+"button.start_using" = "Começar a Usar!";
+"button.open_accessibility" = "Abrir Configurações de Acessibilidade";
+"button.no_thanks" = "Não, Obrigado";
+"button.yes_enable" = "Sim, Ativar!";
+"button.history" = "Histórico";
+"button.copy" = "Copiar";
+"button.replace" = "Substituir";
+"button.close" = "Fechar";
+"button.copy_original" = "Copiar Original";
+"button.copy_translation" = "Copiar Tradução";
+"button.copy_result" = "Copiar Resultado";
+"button.delete" = "Deletar";
+"button.clear_all" = "Limpar Tudo";
+
+/* Onboarding */
+"onboarding.welcome.title" = "Bem-vindo ao SmartText AI";
+"onboarding.welcome.description" = "Traduza qualquer texto instantaneamente com o poder da IA. Simples, rápido e inteligente.";
+"onboarding.welcome.description_full" = "Traduza entre 20 idiomas, melhore, resuma, simplifique ou formalize seus textos instantaneamente com IA. Simples, rápido e inteligente!";
+"onboarding.keyboard.title" = "Atalho de Teclado";
+"onboarding.keyboard.description" = "Selecione qualquer texto e pressione ⌘⇧T para abrir o tradutor. Funciona em qualquer app!";
+"onboarding.accessibility.title" = "Permissão Necessária";
+"onboarding.accessibility.description" = "Para capturar texto selecionado, precisamos de permissão de Acessibilidade. Clique em 'Abrir Configurações' e habilite SmartText AI.";
+"onboarding.accessibility.steps" = "Como habilitar:";
+"onboarding.accessibility.step1" = "Clique em 'Abrir Configurações' abaixo";
+"onboarding.accessibility.step2" = "Encontre 'SmartTextAI' na lista";
+"onboarding.accessibility.step3" = "Ative o interruptor";
+"onboarding.launch.title" = "Iniciar Automaticamente?";
+"onboarding.launch.description" = "Quer que o SmartText AI inicie automaticamente quando você ligar o Mac? Assim ele estará sempre disponível quando precisar!";
+"onboarding.ready.title" = "Tudo Pronto!";
+"onboarding.ready.line1" = "O SmartText AI está na barra de menu.";
+"onboarding.ready.line2" = "Procure por";
+"onboarding.ready.line3" = "e use ⌘⇧T em qualquer app.";
+"onboarding.ready.line4" = "Divirta-se!";
+
+/* Overlay */
+"overlay.history.title" = "Histórico";
+"overlay.history.empty" = "Nenhuma tradução no histórico";
+"overlay.input.title" = "Original";
+"overlay.output.title" = "Resultado";
+"overlay.output.waiting" = "Aguardando tradução...";
+
+/* History */
+"history.title" = "Histórico";
+"history.search.placeholder" = "Buscar no histórico...";
+"history.empty.title" = "Nenhum histórico ainda";
+"history.empty.subtitle" = "Use o SmartText AI para começar!";
+
+/* Time formatting */
+"time.now" = "agora";
+"time.minute_singular" = "1 min atrás";
+"time.minute_plural" = "%d min atrás";
+"time.hour_singular" = "1 hora atrás";
+"time.hour_plural" = "%d horas atrás";
+"time.day_singular" = "1 dia atrás";
+"time.day_plural" = "%d dias atrás";
+
+/* Settings - Tabs */
+"settings.general" = "Geral";
+"settings.usage" = "Uso";
+"settings.about" = "Sobre";
+
+/* Settings - Language */
+"settings.title" = "Configurações";
+"settings.language.title" = "Idioma do App";
+"settings.language.description" = "Escolha o idioma da interface";
+"settings.language.restart_warning" = "⚠️ Reabra o app para aplicar a mudança de idioma";
+
+/* Settings - Translation */
+"settings.default_language.title" = "Idioma Padrão de Tradução";
+"settings.default_language.description" = "Idioma padrão para traduzir textos";
+"settings.translation_preferences" = "Preferências de Tradução";
+"settings.auto_copy" = "Copiar resultado automaticamente";
+"settings.auto_copy.description" = "Copia automaticamente o resultado após a tradução";
+"settings.close_after_replace" = "Fechar após substituir texto";
+"settings.close_after_replace.description" = "Fecha a janela automaticamente após clicar em 'Substituir'";
+
+/* Settings - System */
+"settings.system" = "Sistema";
+"settings.launch_at_login" = "Abrir ao iniciar o sistema";
+"settings.launch_at_login.description" = "Inicia o SmartText AI automaticamente quando você faz login";
+"settings.show_menu_icon" = "Mostrar ícone na barra de menu";
+"settings.show_menu_icon.description" = "Exibe o ícone do SmartText AI na barra de menu";
+
+/* Settings - Shortcuts */
+"settings.shortcuts" = "Atalhos";
+"settings.hotkey.title" = "Atalho Global";
+"settings.hotkey.description" = "Selecione qualquer texto e pressione o atalho para abrir o tradutor";
+
+/* Settings - History */
+"settings.history.title" = "Histórico";
+"settings.history.keep" = "Manter histórico de traduções";
+"settings.history.total" = "Total de Traduções:";
+"settings.history.clear" = "Limpar Histórico";
+
+/* Settings - Usage */
+"settings.usage.daily" = "Uso Diário";
+"settings.usage.remaining" = "restantes";
+"settings.usage.used_today" = "Usadas hoje:";
+"settings.usage.daily_limit" = "Limite diário:";
+"settings.usage.limit_reached" = "⏰ Limite atingido! Recarrega amanhã às 00:00";
+"settings.usage.few_remaining" = "⚠️ Poucas requisições restantes hoje";
+"settings.usage.all_good" = "✅ Tudo certo! Aproveite suas traduções";
+"settings.usage.footer" = "O limite de uso diário ajuda a manter o serviço gratuito e de qualidade para todos.";
+"settings.usage.refresh" = "Atualizar Informações";
+
+/* Settings - Actions */
+"settings.actions" = "Ações";
+
+/* Settings - About */
+"settings.version" = "Versão:";
+"settings.build" = "Build:";
+"settings.about.description" = "Tradutor e editor de texto inteligente\npara macOS baseado em IA";
+"settings.about.tagline" = "Desenvolvido com ❤️ para aumentar produtividade";
+
+/* Subscriptions */
+"subscription.monthly.name" = "Premium Mensal";
+"subscription.yearly.name" = "Premium Anual";
+"subscription.lifetime.name" = "Premium Vitalício";
+"subscription.period.daily" = "Diário";
+"subscription.period.weekly" = "Semanal";
+"subscription.period.monthly" = "Mensal";
+"subscription.period.yearly" = "Anual";
+
+/* Paywall */
+"paywall.title" = "Upgrade para Premium";
+"paywall.subtitle.limit" = "Você atingiu seu limite diário de 10 traduções";
+"paywall.subtitle.settings" = "Desbloqueie traduções ilimitadas e muito mais";
+"paywall.subtitle.onboarding" = "Comece com acesso ilimitado a todos os recursos";
+"paywall.loading_error" = "Erro ao carregar produtos. Tente novamente.";
+
+/* Paywall Features */
+"paywall.feature.unlimited.title" = "Traduções Ilimitadas";
+"paywall.feature.unlimited.description" = "Sem limites diários, use quanto quiser";
+"paywall.feature.history.title" = "Histórico Completo";
+"paywall.feature.history.description" = "Nunca perca suas traduções";
+"paywall.feature.support.title" = "Suporte Prioritário";
+"paywall.feature.support.description" = "Receba ajuda mais rápido";
+"paywall.feature.updates.title" = "Recursos Futuros";
+"paywall.feature.updates.description" = "Acesso a todas as novidades";
+
+/* Paywall Buttons */
+"button.subscribe_now" = "Assinar Agora";
+"button.restore_purchases" = "Restaurar Compras";
+"button.retry" = "Tentar Novamente";
+"badge.best_value" = "Melhor Valor";
+"savings.yearly" = "Economize 33%";
+
+/* Links */
+"link.terms" = "Termos de Uso";
+"link.privacy" = "Privacidade";
+
+/* Premium Status */
+"status.premium" = "Premium Ativo";
+"button.upgrade_premium" = "Upgrade para Premium";
+
+/* Window Titles */
+"window.upgrade.title" = "Upgrade para Premium";
+
+/* Paywall Subtitles */
+"paywall.subtitle.menu" = "Desbloqueie traduções ilimitadas e recursos premium";
+
+/* Settings - Usage */
+"settings.usage.unlimited" = "Traduções ilimitadas";

@@ -1,0 +1,56 @@
+# Xcode
+.DS_Store
+xcuserdata/
+*.xcworkspace/xcuserdata/
+DerivedData/
+build/
+*.pbxuser
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+*.xcuserstate
+*.xccheckout
+*.moved-aside
+*.hmap
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+# Swift Package Manager
+.swiftpm/
+.build/
+
+# IDEs
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Temporary files
+netlify-site/
+smarttext-website/
+website-temp/
+*_temp/
+*.tmp
+
+# Screenshots (keep only final ones)
+screenshots/*.html
+screenshots/*_ready.png
+screenshots/*_temp.png
+
+# Build scripts (temporary)
+*_backgrounds.sh
+resize_*.sh
+fix_*.sh
+add_*.sh
+generate_*.sh
+
+# macOS
+.AppleDouble
+.LSOverride
+Icon
+._*
+
+# API Keys (IMPORTANT: Never commit real API keys!)
+# Remember to replace YOUR_OPENAI_API_KEY_HERE in APIKeyManager.swift with your real key locally

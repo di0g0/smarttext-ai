@@ -1,0 +1,188 @@
+/* Menu Bar */
+"menu.open" = "Open SmartText AI";
+"menu.preferences" = "Preferences...";
+"menu.history" = "History";
+"menu.upgrade" = "⭐ Upgrade to Premium";
+"menu.show_tutorial" = "Show Tutorial Again";
+"menu.about" = "About";
+"menu.quit" = "Quit";
+
+/* AI Actions */
+"action.translate" = "Translate";
+"action.improve" = "Improve Text";
+"action.formal" = "Make Formal";
+"action.casual" = "Make Casual";
+"action.fix" = "Fix Grammar";
+"action.simplify" = "Simplify";
+"action.expand" = "Expand";
+
+/* Window Titles */
+"window.history.title" = "Translation History";
+
+/* Buttons */
+"button.back" = "Back";
+"button.continue" = "Continue";
+"button.already_configured" = "I Already Configured";
+"button.start_using" = "Start Using!";
+"button.open_accessibility" = "Open Accessibility Settings";
+"button.no_thanks" = "No, Thanks";
+"button.yes_enable" = "Yes, Enable!";
+"button.history" = "History";
+"button.copy" = "Copy";
+"button.replace" = "Replace";
+"button.close" = "Close";
+"button.copy_original" = "Copy Original";
+"button.copy_translation" = "Copy Translation";
+"button.copy_result" = "Copy Result";
+"button.delete" = "Delete";
+"button.clear_all" = "Clear All";
+
+/* Onboarding */
+"onboarding.welcome.title" = "Welcome to SmartText AI";
+"onboarding.welcome.description" = "Translate any text instantly with the power of AI. Simple, fast and smart.";
+"onboarding.welcome.description_full" = "Translate between 20 languages, improve, summarize, simplify or formalize your texts instantly with AI. Simple, fast and smart!";
+"onboarding.keyboard.title" = "Keyboard Shortcut";
+"onboarding.keyboard.description" = "Select any text and press ⌘⇧T to open the translator. Works in any app!";
+"onboarding.accessibility.title" = "Permission Required";
+"onboarding.accessibility.description" = "To capture selected text, we need Accessibility permission. Click 'Open Settings' and enable SmartText AI.";
+"onboarding.accessibility.steps" = "How to enable:";
+"onboarding.accessibility.step1" = "Click 'Open Settings' below";
+"onboarding.accessibility.step2" = "Find 'SmartTextAI' in the list";
+"onboarding.accessibility.step3" = "Toggle the switch to ON";
+"onboarding.launch.title" = "Launch Automatically?";
+"onboarding.launch.description" = "Would you like SmartText AI to start automatically when you turn on your Mac? This way it's always available when you need it!";
+"onboarding.ready.title" = "All Set!";
+"onboarding.ready.line1" = "SmartText AI is in the menu bar.";
+"onboarding.ready.line2" = "Look for";
+"onboarding.ready.line3" = "and use ⌘⇧T in any app.";
+"onboarding.ready.line4" = "Have fun!";
+
+/* Overlay */
+"overlay.history.title" = "History";
+"overlay.history.empty" = "No translation in history";
+"overlay.input.title" = "Original";
+"overlay.output.title" = "Result";
+"overlay.output.waiting" = "Waiting for translation...";
+
+/* History */
+"history.title" = "History";
+"history.search.placeholder" = "Search in history...";
+"history.empty.title" = "No history yet";
+"history.empty.subtitle" = "Use SmartText AI to get started!";
+
+/* Time formatting */
+"time.now" = "now";
+"time.minute_singular" = "1 min ago";
+"time.minute_plural" = "%d min ago";
+"time.hour_singular" = "1 hour ago";
+"time.hour_plural" = "%d hours ago";
+"time.day_singular" = "1 day ago";
+"time.day_plural" = "%d days ago";
+
+/* Settings - Tabs */
+"settings.general" = "General";
+"settings.usage" = "Usage";
+"settings.about" = "About";
+
+/* Settings - Language */
+"settings.title" = "Settings";
+"settings.language.title" = "App Language";
+"settings.language.description" = "Choose the interface language";
+"settings.language.restart_warning" = "⚠️ Restart the app to apply language change";
+
+/* Settings - Translation */
+"settings.default_language.title" = "Default Translation Language";
+"settings.default_language.description" = "Default language for text translation";
+"settings.translation_preferences" = "Translation Preferences";
+"settings.auto_copy" = "Auto copy result";
+"settings.auto_copy.description" = "Automatically copies the result after translation";
+"settings.close_after_replace" = "Close after replace";
+"settings.close_after_replace.description" = "Automatically closes the window after clicking 'Replace'";
+
+/* Settings - System */
+"settings.system" = "System";
+"settings.launch_at_login" = "Launch at login";
+"settings.launch_at_login.description" = "Starts SmartText AI automatically when you log in";
+"settings.show_menu_icon" = "Show menu bar icon";
+"settings.show_menu_icon.description" = "Display SmartText AI icon in the menu bar";
+
+/* Settings - Shortcuts */
+"settings.shortcuts" = "Shortcuts";
+"settings.hotkey.title" = "Global Shortcut";
+"settings.hotkey.description" = "Select any text and press the shortcut to open the translator";
+
+/* Settings - History */
+"settings.history.title" = "History";
+"settings.history.keep" = "Keep translation history";
+"settings.history.total" = "Total Translations:";
+"settings.history.clear" = "Clear History";
+
+/* Settings - Usage */
+"settings.usage.daily" = "Daily Usage";
+"settings.usage.remaining" = "remaining";
+"settings.usage.used_today" = "Used today:";
+"settings.usage.daily_limit" = "Daily limit:";
+"settings.usage.limit_reached" = "⏰ Limit reached! Resets tomorrow at 00:00";
+"settings.usage.few_remaining" = "⚠️ Few requests remaining today";
+"settings.usage.all_good" = "✅ All good! Enjoy your translations";
+"settings.usage.footer" = "The daily usage limit helps keep the service free and high quality for everyone.";
+"settings.usage.refresh" = "Refresh Information";
+
+/* Settings - Actions */
+"settings.actions" = "Actions";
+
+/* Settings - About */
+"settings.version" = "Version:";
+"settings.build" = "Build:";
+"settings.about.description" = "Intelligent text translator and editor\nfor macOS powered by AI";
+"settings.about.tagline" = "Built with ❤️ to boost productivity";
+
+/* Subscriptions */
+"subscription.monthly.name" = "Premium Monthly";
+"subscription.yearly.name" = "Premium Yearly";
+"subscription.lifetime.name" = "Premium Lifetime";
+"subscription.period.daily" = "Daily";
+"subscription.period.weekly" = "Weekly";
+"subscription.period.monthly" = "Monthly";
+"subscription.period.yearly" = "Yearly";
+
+/* Paywall */
+"paywall.title" = "Upgrade to Premium";
+"paywall.subtitle.limit" = "You've reached your daily limit of 10 translations";
+"paywall.subtitle.settings" = "Unlock unlimited translations and more";
+"paywall.subtitle.onboarding" = "Start with unlimited access to all features";
+"paywall.loading_error" = "Failed to load products. Please try again.";
+
+/* Paywall Features */
+"paywall.feature.unlimited.title" = "Unlimited Translations";
+"paywall.feature.unlimited.description" = "No daily limits, use as much as you want";
+"paywall.feature.history.title" = "Full History";
+"paywall.feature.history.description" = "Never lose your translations";
+"paywall.feature.support.title" = "Priority Support";
+"paywall.feature.support.description" = "Get help faster";
+"paywall.feature.updates.title" = "Future Features";
+"paywall.feature.updates.description" = "Access to all new features";
+
+/* Paywall Buttons */
+"button.subscribe_now" = "Subscribe Now";
+"button.restore_purchases" = "Restore Purchases";
+"button.retry" = "Retry";
+"badge.best_value" = "Best Value";
+"savings.yearly" = "Save 33%";
+
+/* Links */
+"link.terms" = "Terms of Service";
+"link.privacy" = "Privacy Policy";
+
+/* Premium Status */
+"status.premium" = "Premium Active";
+"button.upgrade_premium" = "Upgrade to Premium";
+
+/* Window Titles */
+"window.upgrade.title" = "Upgrade to Premium";
+
+/* Paywall Subtitles */
+"paywall.subtitle.menu" = "Unlock unlimited translations and premium features";
+
+/* Settings - Usage */
+"settings.usage.unlimited" = "Unlimited translations";
