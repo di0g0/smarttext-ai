@@ -53,4 +53,4 @@ Icon
 ._*
 
 # API Keys (IMPORTANT: Never commit real API keys!)
-# Remember to replace YOUR_OPENAI_API_KEY_HERE in APIKeyManager.swift with your real key locally
+# The OpenAI key is in APIKeyManager.swift - keep the repo private!

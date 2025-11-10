@@ -12,17 +12,17 @@ class APIKeyManager {
     
     private init() {}
     
-    // TODO: ADICIONE SUA CHAVE OPENAI AQUI
-    // Instruções:
-    // 1. Vá para: https://platform.openai.com/api-keys
-    // 2. Crie uma nova chave
-    // 3. Cole abaixo substituindo "YOUR_OPENAI_API_KEY_HERE"
-    // 4. A chave começa com "sk-"
-    //
-    // IMPORTANTE: NÃO compartilhe este código publicamente no GitHub
-    // com a chave real. Use .gitignore ou variáveis de ambiente.
+    // IMPORTANT: This file contains the OpenAI API key
+    // It is tracked by git but you should be careful not to expose it
+    // 
+    // For your local development:
+    // - Keep your real key here
+    // 
+    // Before making the repository public:
+    // - Replace with placeholder
+    // - Or use environment variables / build configurations
     
-    private let obfuscatedKey = "YOUR_OPENAI_API_KEY_HERE"
+    private let obfuscatedKey = "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"
     
     /// Retorna a chave da API desofuscada
     func getAPIKey() -> String {
